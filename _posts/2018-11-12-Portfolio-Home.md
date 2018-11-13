@@ -5,7 +5,7 @@ title: Portfolio Home
 
 ## Deep learning projects 
 
-### MNIST Data Recognition using a multilayer perceptron (feed-forward neural network)
+### MNIST Digit Recognition using a multilayer perceptron (feed-forward neural network)
 
 [[Jupyter Notebook]](\Notebooks\mlp_mnist.ipynb)\\
 [[Dataset]](https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-digits/)
