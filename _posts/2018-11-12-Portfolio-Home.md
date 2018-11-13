@@ -5,7 +5,7 @@
 [[Jupyter Notebook]](\Notebooks\mlp_mnist.ipynb)\\
 [[Dataset]](https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-digits/)
 
-Implementation of a feed-forward neural network using Tensorflow. The model is trained and tested on the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset (pretty much a pre-requisite for training deep learning models). Notebook covers 
+Implementation of a feed-forward neural network using Tensorflow. The model is trained and tested on the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset (pretty much a pre-requisite for training deep learning models). 
 
 
 ## Graduate work
