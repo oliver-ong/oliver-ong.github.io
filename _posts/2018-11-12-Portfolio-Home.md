@@ -17,4 +17,17 @@ title: Data Science porfolio home
 ### Visualisation
 | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Picking best computer game to try| Used K-Means Clusters for visualising top positions | [
+| Picking best computer game to try| Used K-Means Clusters for visualising top positions | 
+
+|-----------------+------------+-----------------+----------------|
+| Default aligned |Left aligned| Center aligned  | Right aligned  |
+|-----------------|:-----------|:---------------:|---------------:|
+| First body part |Second cell | Third cell      | fourth cell    |
+| Second line     |foo         | **strong**      | baz            |
+| Third line      |quux        | baz             | bar            |
+|-----------------+------------+-----------------+----------------|
+| Second body     |            |                 |                |
+| 2 line          |            |                 |                |
+|=================+============+=================+================|
+| Footer row      |            |                 |                |
+|-----------------+------------+-----------------+----------------|
