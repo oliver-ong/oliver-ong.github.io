@@ -1,3 +1,8 @@
+---
+layout: post
+title: Portfolio Home
+---
+
 ## Deep learning projects 
 
 ### MNIST Data Recognition using a multilayer perceptron (feed-forward neural network)
