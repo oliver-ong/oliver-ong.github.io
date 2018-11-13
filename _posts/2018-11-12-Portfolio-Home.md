@@ -1,8 +1,3 @@
----
-layout: post
-title: Data Science porfolio home
----
-
 ## Deep learning projects 
 
 ### MNIST Data Recognition using a multilayer perceptron (feed-forward neural network)
