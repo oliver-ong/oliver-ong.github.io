@@ -15,7 +15,7 @@ title: Data Science porfolio home
 | --- | --- | :---:| :---: |
 | Cool project name | This is what I did | Dataset | [github link](www.reddit.com) |
 
-### Visualisation
+## Visualisation
 | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Picking best computer game to try| Used K-Means Clusters for visualising top positions | 
@@ -32,4 +32,3 @@ title: Data Science porfolio home
 |=================+============+=================+================|
 | Footer row      |            |                 |                |
 |-----------------+------------+-----------------+----------------|
-{: .github}
