@@ -6,11 +6,13 @@ title: Portfolio Home
 ## General data analysis projects
 
 ### Time Series Analysis and Forecasting using Decomposition
-<img src= "\images\ts_decomposition.png" height = "400" align = "middle">\\
+<center><img src= "\images\ts_decomposition.png" height = "400"></center>\\
 **Notebook:** [Jupyter Notebook](https://nbviewer.jupyter.org/github/oliver-ong/oliver-ong.github.io/blob/master/Notebooks/ts_decomposition.ipynb)\\
 **Dataset:** [Electric power consumption (UCI Machine Learning Repository)](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption)\\
-**Description:** Univariate time-series analysis using Fourier (spectrum) and decomposition-based approaches to forecasting. The notebook also dives into the concepts of stationarity\\
+**Description:** Univariate time-series analysis using Fourier (spectrum) and decomposition-based approaches to forecasting. The notebook also dives into the concepts of stationarity in the context of time-series\\
 **Methods/concepts:** time-series analysis, Fourier analysis, series decomposition, EDA (exploratory data analysis), stationarity, forecasting, Augmented Dickey-Fuller tests
+
+### 
 
 ## Deep learning projects 
 
