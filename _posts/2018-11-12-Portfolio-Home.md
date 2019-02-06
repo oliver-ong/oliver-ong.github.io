@@ -17,7 +17,7 @@ title: Portfolio Home
 ## Deep learning projects 
 
 ### MNIST Digit Recognition using a multilayer perceptron (feed-forward neural network)
-<img src= "\images\mlp_mnist.png" width = "400" align = "middle">\\
+<center><img src= "\images\mlp_mnist.png" width = "400"></center>\\
 **Notebook:** [Jupyter Notebook](https://nbviewer.jupyter.org/github/oliver-ong/oliver-ong.github.io/blob/master/Notebooks/mlp_mnist.ipynb)\\
 **Dataset:** [MNIST database](https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-digits/)\\
 **Description:** Implementation of a feed-forward neural network using Tensorflow. The model is trained and tested on the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset (pretty much a pre-requisite for training deep learning models). \\
