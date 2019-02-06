@@ -34,7 +34,7 @@ title: Portfolio Home
 
 ### Review of finite-difference schemes for the heat-diffusion equation 
 
-<img src= ""\images\mesh.png" width = "200">
+<img src= "\images\mesh.png" width = "200">
 [[PDF]](\Papers\Heat-diffusion - Review of finite-difference schemes.pdf)\\
 **Description:** The heat-diffusion equation is a second-order partial differential equation that governs the distribution of heat or diffusing material. This paper reviews some of the many finite-approximation schemes using for solving this equation and provides comparisons on their accuracy and stability. 
 **Methods/concepts:** finite-difference, temperature modelling, 
