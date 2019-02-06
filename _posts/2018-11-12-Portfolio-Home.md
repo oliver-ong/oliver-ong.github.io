@@ -13,7 +13,7 @@ title: Portfolio Home
 **Methods/concepts:** time-series analysis, Fourier analysis, series decomposition, EDA (exploratory data analysis), stationarity, forecasting, Augmented Dickey-Fuller tests
 
 ### Logistic regression and EDA of Hospital Emergency Department 
-<center><img src= "\images\log_regress_hospital.png" height = "400"></center>\\
+<center><img src= "\images\log_regress_hospital.png" height = "300"></center>\\
 **Notebook:** [Jupyter Notebook](https://nbviewer.jupyter.org/github/oliver-ong/oliver-ong.github.io/blob/master/Notebooks/log_regress_hospital.ipynb)\\
 **Dataset:** [Hospital Emergency Department Visits (from coding challenge)](\data\Emergency department data.xlsx)\\
 **Description:** \\
