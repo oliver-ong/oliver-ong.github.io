@@ -46,7 +46,7 @@ title: Portfolio Home
 **Methods/concepts:** least squares regression, basis functions, compact support
 
 ### Review of finite-difference schemes for the heat-diffusion equation 
-<center><img src= "\images\mesh.png" width = "400"></center>\\
+<center><img src= "\images\mesh.png" height = "400"></center>\\
 **Paper:** [[PDF]](\Papers\Heat-diffusion - Review of finite-difference schemes.pdf)\\
 **Description:** The heat-diffusion equation is a second-order partial differential equation that governs the distribution of heat or diffusing material. This paper reviews some of the many finite-approximation schemes using for solving this equation and provides comparisons on their accuracy and stability. \\
 **Methods/concepts:** finite-difference, temperature modelling, stability analysis, eigenvalue solutions
