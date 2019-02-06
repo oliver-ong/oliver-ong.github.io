@@ -6,23 +6,25 @@ title: Portfolio Home
 ## General data analysis projects
 
 ### Time Series Analysis and Forecasting using Decomposition
-
+<img src= "\images\ts_decomposition.png" width = "400" align = "center">\\
+**Notebook:** [Jupyter Notebook](https://nbviewer.jupyter.org/github/oliver-ong/oliver-ong.github.io/blob/master/Notebooks/ts_decomposition.ipynb)\\
+**Dataset:** [Electric power consumption (UCI Machine Learning Repository)](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption)\\
+**Description:** \\
+**Methods/concepts:** time-series analysis, Fourier analysis, series decomposition, EDA (exploratory data analysis), stationarity, forecasting 
 
 ## Deep learning projects 
 
 ### MNIST Digit Recognition using a multilayer perceptron (feed-forward neural network)
-
 <img src= "\images\mlp_mnist.png" width = "400" align = "center">\\
 **Notebook:** [Jupyter Notebook](https://nbviewer.jupyter.org/github/oliver-ong/oliver-ong.github.io/blob/master/Notebooks/mlp_mnist.ipynb)\\
 **Dataset:** [MNIST database](https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-digits/)\\
 **Description:** Implementation of a feed-forward neural network using Tensorflow. The model is trained and tested on the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset (pretty much a pre-requisite for training deep learning models). \\
-**Methods/concepts:** tensorflow, OCR (Optical Character Recognition), EDA (Exploratory data analysis), neural network
+**Methods/concepts:** tensorflow, OCR (Optical Character Recognition), EDA (exploratory data analysis), neural network
 
 
 ## Graduate work
 
 ### Least squares regression using harmonic functions 
-
 <img src= "\images\ls_harmonic.png" height = "400" align = "center">\\
 **Notebook:** [Jupyter Notebook](https://nbviewer.jupyter.org/github/oliver-ong/oliver-ong.github.io/blob/master/Notebooks/ls_harmonic.ipynb)\\
 **Dataset:** [Government of Canada - Historical Climate Data](http://climate.weather.gc.ca/historical_data/search_historic_data_e.html)\\
@@ -30,7 +32,6 @@ title: Portfolio Home
 **Methods/concepts:** least squares regression, harmonic functions, periodicity modelling
 
 ### Least squares regression using compact-support basis functions
-
 <img src= "\images\ls_basis_compact.png" height = "400" align = "center">\\
 **Notebook:** [Jupyter Notebook](https://nbviewer.jupyter.org/github/oliver-ong/oliver-ong.github.io/blob/master/Notebooks/ls_basis_compact.ipynb)\\
 **Dataset:** [Solar 2000 Model](https://www.ngdc.noaa.gov/stp/solar/solaruv.html)\\
@@ -38,8 +39,7 @@ title: Portfolio Home
 **Methods/concepts:** least squares regression, basis functions, compact support
 
 ### Review of finite-difference schemes for the heat-diffusion equation 
-
 <img src= "\images\mesh.png" width = "400" align = "center">\\
 [[PDF]](\Papers\Heat-diffusion - Review of finite-difference schemes.pdf)\\
 **Description:** The heat-diffusion equation is a second-order partial differential equation that governs the distribution of heat or diffusing material. This paper reviews some of the many finite-approximation schemes using for solving this equation and provides comparisons on their accuracy and stability. \\
-**Methods/concepts:** finite-difference, temperature modelling, 
+**Methods/concepts:** finite-difference, temperature modelling, stability analysis, eigenvalue solutions
