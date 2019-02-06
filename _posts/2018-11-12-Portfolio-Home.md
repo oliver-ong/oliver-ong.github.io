@@ -15,9 +15,9 @@ title: Portfolio Home
 ### Logistic regression and EDA of Hospital Emergency Department 
 <center><img src= "\images\log_regress_hospital.png" height = "400"></center>\\
 **Notebook:** [Jupyter Notebook](https://nbviewer.jupyter.org/github/oliver-ong/oliver-ong.github.io/blob/master/Notebooks/log_regress_hospital.ipynb)\\
-**Dataset:** [From coding challenge (Hospital Emergency Department Visits](\data\Emergency department data.xlsx)\\
+**Dataset:** [Hospital Emergency Department Visits (from coding challenge)](\data\Emergency department data.xlsx)\\
 **Description:** \\
-**Methods/concepts:**
+**Methods/concepts:** logistic regression, EDA (exploratory data analysis), time-series analysis, outlier analysis
 
 ## Deep learning projects 
 
