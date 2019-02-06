@@ -12,10 +12,10 @@ title: Portfolio Home
 **Description:** Univariate time-series analysis using Fourier (spectrum) and decomposition-based approaches to forecasting. The notebook also dives into the concepts of stationarity in the context of time-series\\
 **Methods/concepts:** time-series analysis, Fourier analysis, series decomposition, EDA (exploratory data analysis), stationarity, forecasting, Augmented Dickey-Fuller tests
 
-### Logistic regression
+### Logistic regression and EDA of Hospital Emergency Department 
 <center><img src= "\images\log_regress_hospital.png" height = "400"></center>\\
 **Notebook:** [Jupyter Notebook](https://nbviewer.jupyter.org/github/oliver-ong/oliver-ong.github.io/blob/master/Notebooks/log_regress_hospital.ipynb)\\
-**Dataset:** [From coding challenge](\data\Emergency department data.xlsx)\\
+**Dataset:** [From coding challenge (Hospital Emergency Department Visits](\data\Emergency department data.xlsx)\\
 **Description:** \\
 **Methods/concepts:**
 
@@ -47,6 +47,6 @@ title: Portfolio Home
 
 ### Review of finite-difference schemes for the heat-diffusion equation 
 <center><img src= "\images\mesh.png" width = "400"></center>\\
-[[PDF]](\Papers\Heat-diffusion - Review of finite-difference schemes.pdf)\\
+**Paper:** [[PDF]](\Papers\Heat-diffusion - Review of finite-difference schemes.pdf)\\
 **Description:** The heat-diffusion equation is a second-order partial differential equation that governs the distribution of heat or diffusing material. This paper reviews some of the many finite-approximation schemes using for solving this equation and provides comparisons on their accuracy and stability. \\
 **Methods/concepts:** finite-difference, temperature modelling, stability analysis, eigenvalue solutions
