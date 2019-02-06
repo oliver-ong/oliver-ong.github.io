@@ -16,7 +16,7 @@ title: Portfolio Home
 <center><img src= "\images\log_regress_hospital.png" height = "300"></center>\\
 **Notebook:** [Jupyter Notebook](https://nbviewer.jupyter.org/github/oliver-ong/oliver-ong.github.io/blob/master/Notebooks/log_regress_hospital.ipynb)\\
 **Dataset:** [Hospital Emergency Department Visits (from coding challenge)](\data\Emergency department data.xlsx)\\
-**Description:** \\
+**Description:** Exploratory data analysis and implementation of logistic regression to determine admittance probability for hospital patients at a Hospital emergency department\\
 **Methods/concepts:** logistic regression, EDA (exploratory data analysis), time-series analysis, outlier analysis
 
 ## Deep learning projects 
