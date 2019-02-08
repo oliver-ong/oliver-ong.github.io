@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Portfolio
+title: 
 ---
 
-## General data analysis projects
+# General data analysis projects
 
 ### Time Series Analysis and Forecasting using Decomposition
 <img src= "\images\ts_decomposition.png" height = "400">\\
@@ -19,7 +19,7 @@ title: Portfolio
 **Description:** Exploratory data analysis and implementation of logistic regression to determine admittance probability for hospital patients at a Hospital emergency department\\
 **Methods/concepts:** logistic regression, EDA (exploratory data analysis), time-series analysis, outlier analysis
 
-## Deep learning projects 
+# Deep learning projects 
 
 ### MNIST Digit Recognition using a multilayer perceptron (feed-forward neural network)
 <img src= "\images\mlp_mnist.png" width = "400">\\
@@ -29,7 +29,7 @@ title: Portfolio
 **Methods/concepts:** tensorflow, OCR (Optical Character Recognition), EDA (exploratory data analysis), neural network
 
 
-## Graduate work
+# Modelling of Physical Processes
 
 ### Least squares regression using harmonic functions 
 <img src= "\images\ls_harmonic.png" height = "400">\\
