@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Portfolio Home
+title: Portfolio
 ---
 
 ## General data analysis projects
