@@ -12,12 +12,6 @@ title:
 **Description:** Univariate time-series analysis using Fourier (spectrum) and decomposition-based approaches to forecasting. The notebook also dives into the concepts of stationarity in the context of time-series\\
 **Methods/concepts:** time-series analysis, Fourier analysis, series decomposition, EDA (exploratory data analysis), stationarity, forecasting, Augmented Dickey-Fuller tests
 
-### Logistic regression and EDA of Hospital Emergency Department 
-<img src= "\images\log_regress_hospital.png" height = "250">\\
-**Notebook:** [Jupyter Notebook](https://nbviewer.jupyter.org/github/oliver-ong/oliver-ong.github.io/blob/master/Notebooks/log_regress_hospital.ipynb)\\
-**Dataset:** [Hospital Emergency Department Visits (from coding challenge)](\data\Emergency department data.xlsx)\\
-**Description:** Exploratory data analysis and implementation of logistic regression to determine admittance probability for hospital patients at a Hospital emergency department\\
-**Methods/concepts:** logistic regression, EDA (exploratory data analysis), time-series analysis, outlier analysis
 
 # Deep learning projects 
 
